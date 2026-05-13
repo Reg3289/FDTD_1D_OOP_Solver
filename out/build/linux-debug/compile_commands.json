@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/xiaobo/FDTD_1D_OOP_Solver/out/build/linux-debug",
-  "command": "/usr/bin/c++ -I/home/xiaobo/FDTD_1D_OOP_Solver/include -g -std=c++17 -fopenmp -o CMakeFiles/FDTD_1D_OOP_Solver.dir/src/main.cpp.o -c /home/xiaobo/FDTD_1D_OOP_Solver/src/main.cpp",
-  "file": "/home/xiaobo/FDTD_1D_OOP_Solver/src/main.cpp",
-  "output": "CMakeFiles/FDTD_1D_OOP_Solver.dir/src/main.cpp.o"
-}
-]

@@ -1,3 +1,0 @@
-/home/xiaobo/FDTD_1D_OOP_Solver/out/build/linux-debug/CMakeFiles/FDTD_1D_OOP_Solver.dir
-/home/xiaobo/FDTD_1D_OOP_Solver/out/build/linux-debug/CMakeFiles/edit_cache.dir
-/home/xiaobo/FDTD_1D_OOP_Solver/out/build/linux-debug/CMakeFiles/rebuild_cache.dir
