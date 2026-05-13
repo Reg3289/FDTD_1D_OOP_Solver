@@ -51,3 +51,5 @@ Update Hy
 → Inject E component of TF/SF source
 → Record probe signals
 → Check auto shutoff condition
+
+![Time-domain probe signals](results/time_domain_signals.png)
